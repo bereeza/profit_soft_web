@@ -1,0 +1,51 @@
+[
+  {
+    "title": "What I've Done",
+    "duration": 3.28,
+    "album": "Minutes to Midnight",
+    "genre": "alternative rock, nu-metal",
+    "artist_id": 1
+  },
+  {
+    "title": "Faint",
+    "duration": 2.42,
+    "album": "Meteora",
+    "genre": "alternative rock, nu-metal",
+    "artist_id": 1
+  },
+  {
+    "title": "New Divide",
+    "duration": 4.29,
+    "album": "Transformers: Revenge of the Fallen – The Album",
+    "genre": "alternative rock, electronic rock",
+    "artist_id": 1
+  },
+  {
+    "title": "Papercut",
+    "duration": 3.04,
+    "album": "Hybrid Theory",
+    "genre": "alternative rock, nu-metal",
+    "artist_id": 1
+  },
+  {
+    "title": "Shadow of the Day",
+    "duration": 4.49,
+    "album": "Minutes to Midnight",
+    "genre": "alternative rock, post-grunge",
+    "artist_id": 1
+  },
+  {
+    "title": "Crawling",
+    "duration": 3.29,
+    "album": "Hybrid Theory",
+    "genre": "alternative rock, nu-metal",
+    "artist_id": 1
+  },
+  {
+    "title": "Somewhere I Belong",
+    "duration": 3.33,
+    "album": "Meteora",
+    "genre": "alternative rock, nu-metal",
+    "artist_id": 1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Papercut",
+    "duration": 3.04,
+    "album": "Hybrid Theory",
+    "genre": "alternative rock, nu-metal",
+    "artist_id": 1
+  },
+  {
+    "title": "A Death in the Family"
+  },
+  {
+    "title": "Let the Sparks Fly",
+    "duration": 3.22,
+    "album": "The End Is Where We Begin",
+    "genre": "alternative rock, hard rock",
+    "artist_id": 3
+  },
+  {
+    "title": "Crawling",
+    "duration": 3.29,
+    "album": "Hybrid Theory",
+    "genre": "alternative rock, nu-metal",
+    "artist_id": 1
+  },
+  {
+    "title": "The New Sensation",
+    "duration": 3.34,
+    "album": "Order in Decline",
+    "genre": "punk rock, alternative metal",
+    "artist_id": 2
+  },
+  {
+    "title": "Move",
+    "duration": 3.13,
+    "album": "The End Is Where We Begin",
+    "genre": "alternative rock, hard rock",
+    "artist_id": 3
+  },
+  {
+    "title": "Move",
+    "duration": 3.13,
+    "album": "The End Is Where We Begin",
+    "genre": "alternative rock, hard rock",
+    "artist_id": 3
+  }
+]

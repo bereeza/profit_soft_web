@@ -1,0 +1,47 @@
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
+
+    <changeSet id="create" author="bereeeza">
+        <createTable tableName="artist">
+            <column name="artist_id" type="bigserial" autoIncrement="true">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="artist_country" type="varchar(256)"/>
+            <column name="artist_name" type="varchar(256)"/>
+        </createTable>
+        <createTable tableName="song">
+            <column name="duration" type="float4"/>
+            <column name="artist_id" type="bigint">
+                <constraints foreignKeyName="song_artist_id_fkey" referencedTableName="artist" referencedColumnNames="artist_id"/>
+            </column>
+            <column name="id" type="bigserial" autoIncrement="true">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="album" type="varchar(256)"/>
+            <column name="genre" type="varchar(256)"/>
+            <column name="title" type="varchar(256)"/>
+        </createTable>
+        <createIndex indexName="album_index" tableName="song">
+            <column name="album"/>
+        </createIndex>
+        <createIndex indexName="genre_index" tableName="song">
+            <column name="genre"/>
+        </createIndex>
+        <insert tableName="artist">
+            <column name="artist_id">1</column>
+            <column name="artist_name">Linkin Park</column>
+            <column name="artist_country">USA</column>
+        </insert>
+        <insert tableName="artist">
+            <column name="artist_id">2</column>
+            <column name="artist_name">Sum 41</column>
+            <column name="artist_country">Canada</column>
+        </insert>
+        <insert tableName="artist">
+            <column name="artist_id">3</column>
+            <column name="artist_name">Thousand Foot Krutch</column>
+            <column name="artist_country">Canada</column>
+        </insert>
+    </changeSet>
+</databaseChangeLog>

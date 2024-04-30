@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Fat Lip",
+    "duration": 3.01,
+    "album": "All Killer No Filler",
+    "genre": "punk rock, pop punk",
+    "artist_id": 2
+  },
+  {
+    "title": "Still Waiting",
+    "duration": 2.39,
+    "album": "Does This Look Infected?",
+    "genre": "punk rock",
+    "artist_id": 2
+  },
+  {
+    "title": "Pieces",
+    "duration": 3.02,
+    "album": "Chuck",
+    "genre": "alternative rock",
+    "artist_id": 2
+  },
+  {
+    "title": "Underclass Hero",
+    "duration": 3.14,
+    "album": "Underclass Hero",
+    "genre": "punk rock",
+    "artist_id": 2
+  },
+  {
+    "title": "With Me",
+    "duration": 4.51,
+    "album": "Underclass Hero",
+    "genre": "alternative rock, pop punk",
+    "artist_id": 2
+  },
+  {
+    "title": "Blood in My Eyes",
+    "duration": 3.32,
+    "album": "Screaming Bloody Murder",
+    "genre": "punk rock, alternative metal",
+    "artist_id": 2
+  },
+  {
+    "title": "Out for Blood",
+    "duration": 3.30,
+    "album": "Order in Decline",
+    "genre": "hard rock, punk rock",
+    "artist_id": 2
+  }
+]

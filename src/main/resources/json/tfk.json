@@ -1,0 +1,51 @@
+[
+  {
+    "title": "War of Change",
+    "duration": 3.52,
+    "album": "The End Is Where We Begin",
+    "genre": "alternative rock, hard rock",
+    "artist_id": 3
+  },
+  {
+    "title": "Courtesy Call",
+    "duration": 3.56,
+    "album": "The End Is Where We Begin",
+    "genre": "alternative rock, hard rock",
+    "artist_id": 3
+  },
+  {
+    "title": "Let the Sparks Fly",
+    "duration": 3.22,
+    "album": "The End Is Where We Begin",
+    "genre": "alternative rock, hard rock",
+    "artist_id": 3
+  },
+  {
+    "title": "Untraveled Road",
+    "duration": 3.56,
+    "album": "Oxygen: Inhale",
+    "genre": "alternative rock, hard rock",
+    "artist_id": 3
+  },
+  {
+    "title": "Fire It Up",
+    "duration": 3.12,
+    "album": "The End Is Where We Begin",
+    "genre": "alternative rock, hard rock",
+    "artist_id": 3
+  },
+  {
+    "title": "Move",
+    "duration": 3.13,
+    "album": "The End Is Where We Begin",
+    "genre": "alternative rock, hard rock",
+    "artist_id": 3
+  },
+  {
+    "title": "Light Up the Sky",
+    "duration": 3.38,
+    "album": "Welcome to the Masquerade",
+    "genre": "alternative rock, post-grunge",
+    "artist_id": 3
+  }
+]
