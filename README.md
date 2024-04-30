@@ -48,7 +48,7 @@ Swagger за адресою: http://localhost:8080/swagger-ui/index.html
 
 В додатку присутні всього 2 контролери:
 1) ArtistController - для маніпулювання з сутністю Artist
-2) SonController - для маніпулювання з сутністю Song
+2) SongController - для маніпулювання з сутністю Song
 
 # Тести
 В цьому модулі я вперше спробував використати h2 і додав відповідний файл .properties
