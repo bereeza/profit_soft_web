@@ -4,7 +4,7 @@
 
 ```git clone https://github.com/bereeza/profit_soft_web```
 
-Важливо додати, що додаток використовує liquibase 4.27.0 версії. 
+Додаток використовує liquibase 4.27.0 версії. 
 Скрипт запускається під час компіляції і заповнює сутність Artist 3 записами. 
 (важливо не встановлювати spring.jpa.hibernate.ddl-auto = create-drop, оскільки воно почистить таблицю з Artist).
 
